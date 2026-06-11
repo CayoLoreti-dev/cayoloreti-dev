@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-🎓 Estudante de Desenvolvimento Back-end Java.
+Estudante de Desenvolvimento Back-end Java.
 
 Atualmente estudando:
 - Java
