@@ -21,5 +21,5 @@ Aqui no meu GitHub você encontrará projetos desenvolvidos durante meus estudos
 
 ## Contato
 
-- LinkedIn: www.linkedin.com/in/cayo-castilho
+- LinkedIn: https://www.linkedin.com/in/cayo-castilho-28199840a/
 - E-mail: cayoloreti.dev@gmail.com
